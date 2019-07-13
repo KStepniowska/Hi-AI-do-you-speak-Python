@@ -3,9 +3,12 @@ What are the most popular machine learning (ML) &amp; reinforcement learning (RL
 
 # Resources 
 
+The final result:
 [Presentation](https://docs.google.com/presentation/d/1kwm4f28S-PPIjU9FXL9JkeSdkdZ9BHsYyNEUekYY3mk/edit?usp=sharing)
 
-[Questionnaire](https://docs.google.com/forms/d/e/1FAIpQLSeSRWIdfrA1hrJ6FO1zlbbHrIj_AOj2PYZzXpCceCEiU8CccA/viewform?usp=sf_link)
+How did I get there:
+[Questionnaire-Questions](https://docs.google.com/forms/d/e/1FAIpQLSeSRWIdfrA1hrJ6FO1zlbbHrIj_AOj2PYZzXpCceCEiU8CccA/viewform?usp=sf_link),
+[Questionnaire-Answers](https://docs.google.com/spreadsheets/d/13eVkRzXYd6bXgpdAqacjsNGsdJznQnxSEoOdjqnjIF8/edit?usp=sharing)
 
 
 

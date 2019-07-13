@@ -18,6 +18,10 @@ What are the most popular machine learning (ML) &amp; reinforcement learning (RL
    Jeff Hale, [Which Deep Learning Framework is Growing Fastest?](https://towardsdatascience.com/which-deep-learning-framework-is-growing-fastest-3f77f14aa318)
 
   Piotr Migdał, [Keras or PyTorch as your first deep learning framework](https://deepsense.ai/keras-or-pytorch/)
+  
+  Gregory Piatetsky, KDnuggets, [Top Analytics, Data Science, Machine Learning Tools](https://www.kdnuggets.com/2018/05/poll-tools-analytics-data-science-machine-learning-results.html)
+  
+  Brandon Wozniewicz, [The Difference Between a Framework and a Library](https://www.freecodecamp.org/news/the-difference-between-a-framework-and-a-library-bd133054023f/)
 
 
 # Talks given

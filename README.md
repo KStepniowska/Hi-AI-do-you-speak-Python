@@ -25,7 +25,7 @@ What are the most popular machine learning (ML) &amp; reinforcement learning (RL
 
 
 # Talks given
-The material had been presented at:
+The material has been presented at:
 
   [PyDays Vienna](https://www.pydays.at/), May 2019
   [PyData Warsaw #20](https://www.meetup.com/PyData-Warsaw/events/261251405/), June 2019 
